@@ -11,3 +11,5 @@ Edge detection.
 
 Determine the position of the gates. 
 ![image](https://user-images.githubusercontent.com/67049287/141603219-3bbbea65-e5d1-4482-b7c1-08faef424d2b.png)
+  
+![image](https://user-images.githubusercontent.com/67049287/142147493-62103a69-550d-4042-a901-b8f320fae1dd.png)
